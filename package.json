@@ -12,7 +12,7 @@
   "dependencies": {
     "aws-sdk": "^2.596.0",
     "moment": "^2.24.0",
-    "underscore": "^1.9.1",
+    "underscore": "^1.12.1",
     "uuid": "^3.3.3"
   }
 }
